@@ -4,7 +4,7 @@ javaScript foundational class with will cover
 3. variable var,let,const
 4. data type in javaScript
 5. type convertion
-6. project file
+6. number the math object
 7. string methods concatenation
 8. template literals
 9. arrays and array methods
